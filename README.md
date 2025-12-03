@@ -1,4 +1,4 @@
-## Hi everyone there👋 I am Teyiba(yathrib)
+## Hey everyone👋 I am Teyiba (yathrib)
 
 <!--
 **yathrib-04/yathrib-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
