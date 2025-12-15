@@ -18,7 +18,7 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 - Exploring modern backend workflows and architecture patterns
 
 ------
-**Fun Fact:**  
+✨**Fun Fact:**  
 I light up with joy at every “Aha!” moment after a victorious debugging adventure. My spirit races with horses they inspire me, ignite my passion, and hold a special place in my heart, almost like a life mission.🐎
 
 
