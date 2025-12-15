@@ -14,7 +14,7 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 - Building and maintaining applications with .NET
 - Exploring modern backend workflows and architecture patterns
 
-- **AI & Data:**
+ **AI & Data:**
 - Machine Learning
 
 ------
