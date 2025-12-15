@@ -41,6 +41,12 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
+----- 
+## 📊 GitHub Stats
+
+![Teyiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathrib-04&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yathrib-04&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yathrib-04&theme=radical)
 
 
 
