@@ -43,8 +43,7 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 
 ----- 
 ## 📊 GitHub Stats
-
-![Teyiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathrib-04&show_icons=true&theme=radical)
+![Teyiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathrib-04&show_icons=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yathrib-04&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=yathrib-04&theme=radical)
 
