@@ -1,3 +1,6 @@
+# Hey there, I’m Teyiba (Yathrib) 👋
+**Software Engineer | Full-Stack Developer | AI Enthusiast**  
+
 
 
 <!--
