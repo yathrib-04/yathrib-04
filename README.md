@@ -10,11 +10,12 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 
 **AI & Data:**
 - Machine Learning
-
 **Backend & Infrastructure:**
-- Advanced backend development & best practices
-- Docker
-- .NET
+- Advanced backend development and best practices for scalable systems
+- Containerization and deployment with Docker
+- Building and maintaining applications with .NET
+- Exploring modern backend workflows and architecture patterns
+
 
 
 
