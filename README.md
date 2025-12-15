@@ -1,9 +1,9 @@
 # 👋 Hey there, I’m Teyiba (Yathrib) 
 **Software Engineer | Full-Stack Developer | AI Enthusiast**  
+------
 
+I am a fourth-year Software Engineering student at Addis Ababa University. My passion lies in mastering full-stack development, building scalable web applications, and exploring the potential of AI. Driven by curiosity and innovation, I strive to create meaningful solutions while continuously learning and contributing to the evolving technology landscape.
 
-As a software engineering student, my passion lies in mastering full-stack development, building scalable web applications, and exploring the potential of AI. Driven by curiosity and innovation, I strive to create meaningful solutions while continuously learning and contributing to the evolving technology landscape. 
-<!--
 **yathrib-04/yathrib-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
