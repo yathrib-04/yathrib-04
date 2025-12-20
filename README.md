@@ -8,7 +8,7 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 -----
 📚 Currently Learning
 
-**Backend & Infrastructure:**
+** Advanced Backend & Infrastructure:**
 - Advanced backend development and best practices for scalable systems
 - Containerization and deployment with Docker
 - Building and maintaining applications with .NET
