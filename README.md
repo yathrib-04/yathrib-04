@@ -41,18 +41,6 @@ I am a fourth-year Software Engineering student at Addis Ababa University. My pa
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
 
------ 
-## 📊 GitHub Stats
-![Teyiba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yathrib-04&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yathrib-04&layout=compact&theme=radical)
-
-
-
 ------
 ✨**Fun Fact:**  
-light up with joy at every “Aha!” moment after a victorious debugging adventure. My spirit races with horses they inspire me, ignite my passion, and hold a special place in my heart, almost like a life mission.🐎
-
-
-
-
-
+light up with joy at every “Aha!” moment after a victorious debugging adventure. Horses captivate my heart and soul.🐎
